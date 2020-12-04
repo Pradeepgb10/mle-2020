@@ -11,7 +11,7 @@ tensorflow = "~=2.3"
 pandas = "*"
 sklearn = "*"
 numpy = "*"
-
+pandasql = "*"
 
 [requires]
 python_version = "3.7"
